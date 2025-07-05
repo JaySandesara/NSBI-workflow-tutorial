@@ -1,3 +1,6 @@
+Note: This tutorial is no longer updated, and is superseded by the iris-hep repository: https://github.com/iris-hep/NSBI-workflow-tutorial
+--
+
 # Neural Simulation-Based Inference Workflow demonstration
 
 The notebooks presented here aim to serve as a scaled-down and simplified tutorial for the workflow building related to the NSBI analysis recently published by ATLAS:
